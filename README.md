@@ -32,3 +32,9 @@ A collection of scripts for Ransomware Analysis and identification
 	Date: 2020-10-14
 	Identifier: Looking for SODIN samples
    
+
+**************************************************
+
+# Sodin_dmn.txt
+
+	List of domains configured on analized samples of this ransomware 
